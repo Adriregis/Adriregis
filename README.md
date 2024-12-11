@@ -47,7 +47,6 @@ Version Control
 
 ---
 
- 📈 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
@@ -57,11 +56,6 @@ Version Control
 - 💼 [LinkedIn]([www.linkedin.com/in/adriana-regis-713692321])
 - 📧 Email: aadriana.regis@gmail.com
 
----
-
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact)]
-
-   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true)]
 
 
 Let's connect and collaborate on exciting projects! 🚀
