@@ -48,10 +48,10 @@ Version Control
 ---
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriregis&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriregis&show_icons=true&theme=dracula&hide=stars,prs,contribs)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriregis&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriregis&layout=compact&theme=dracula)
 
 ---
 
